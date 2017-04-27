@@ -1,2 +1,2 @@
 # bot_check.pi_ee_addon
-Checks for bots and return a 403
+Checks for bots and returns a 403
